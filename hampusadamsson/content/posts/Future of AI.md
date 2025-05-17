@@ -13,5 +13,11 @@ llm.solve_my_problmems()
 What are we ==actually== solving?
 
 > This is cool though
-Yes, sure, but do you know
+Yes, sure, but do you know what you are doing?
+
+%% idk but it works %%
+```bash
+I don't care
+```
+
 
