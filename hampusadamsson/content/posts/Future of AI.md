@@ -9,3 +9,9 @@ Language is esoteric. Math is not. LLM will have breakthroughs in math and physi
 llm = OpenAPI()
 llm.solve_my_problmems()
 ```
+
+What are we ==actually== solving?
+
+> This is cool though
+Yes, sure, but do you know
+
