@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'sv-se'
-title = 'My New Hugo Site'
+title = 'Hampus safe space' 
 
 theme = "paper"
 
@@ -9,18 +9,16 @@ paginate = 10
 enableRobotsTXT = true
 
 [params]
-  env = "dev"
+  color = 'linen'                           # linen, wheat, gray, light
   color = 'auto'           # light, dark, or auto
   homeSubtitle = "Take a break in my safe space"
   github = 'hampusadamsson'   # Optional social links
   # rss = true
 
+  bio = 'Software Engineer'
+
 [menu]
-  # [[menu.main]]
-  #   name = "Home"
-  #   url = "/"
-  #   weight = 1
-  #
+  
   # [[menu.main]]
   #   name = "About"
   #   url = "/about/"
@@ -30,3 +28,4 @@ enableRobotsTXT = true
     name = "Posts"
     url = "/posts/"
     weight = 3
+
