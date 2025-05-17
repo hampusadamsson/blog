@@ -9,7 +9,8 @@ paginate = 10
 enableRobotsTXT = true
 
 [params]
-  color = 'light'           # light, dark, or auto
+  env = "dev"
+  color = 'auto'           # light, dark, or auto
   homeSubtitle = "Take a break in my safe space"
   github = 'hampusadamsson'   # Optional social links
   rss = true
