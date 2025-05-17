@@ -4,7 +4,6 @@ title = 'Hampus safe space'
 
 theme = "paper"
 
-# Optional but nice for minimal blogs
 paginate = 10
 enableRobotsTXT = true
 
