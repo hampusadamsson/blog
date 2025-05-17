@@ -1,5 +1,5 @@
 ---
-title: The Future of AI
+title: Future of AI
 date: 2025-05-17
 draft: "false"
 ---
