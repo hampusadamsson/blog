@@ -5,4 +5,7 @@ draft: "false"
 ---
 Language is esoteric. Math is not. LLM will have breakthroughs in math and physics. 
 
-Test
+```python
+llm = OpenAPI()
+llm.solve_my_peoblems
+```
