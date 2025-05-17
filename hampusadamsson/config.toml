@@ -10,7 +10,6 @@ enableRobotsTXT = true
 
 [params]
   color = 'linen'                           # linen, wheat, gray, light
-  color = 'auto'           # light, dark, or auto
   homeSubtitle = "Take a break in my safe space"
   github = 'hampusadamsson'   # Optional social links
   # rss = true
