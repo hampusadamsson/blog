@@ -1,3 +1,31 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+
+theme = "PaperMod"
+
+# Optional but nice for minimal blogs
+paginate = 10
+enableRobotsTXT = true
+
+[params]
+  color = 'light'           # light, dark, or auto
+  homeSubtitle = "Take a break in my safe space"
+  github = 'hampusadamsson'   # Optional social links
+  rss = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 3
