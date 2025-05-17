@@ -1,8 +1,8 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
+languageCode = 'sv-se'
 title = 'My New Hugo Site'
 
-theme = "PaperMod"
+theme = "paper"
 
 # Optional but nice for minimal blogs
 paginate = 10

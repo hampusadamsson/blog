@@ -1,3 +1,3 @@
-[submodule "hampusadamsson/themes/PaperMod"]
-	path = hampusadamsson/themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "hampusadamsson/themes/paper"]
+	path = hampusadamsson/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
