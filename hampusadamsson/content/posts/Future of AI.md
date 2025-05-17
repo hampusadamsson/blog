@@ -7,5 +7,5 @@ Language is esoteric. Math is not. LLM will have breakthroughs in math and physi
 
 ```python
 llm = OpenAPI()
-llm.solve_my_peoblems
+llm.solve_my_problmems()
 ```
