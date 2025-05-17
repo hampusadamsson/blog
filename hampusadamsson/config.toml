@@ -13,19 +13,19 @@ enableRobotsTXT = true
   color = 'auto'           # light, dark, or auto
   homeSubtitle = "Take a break in my safe space"
   github = 'hampusadamsson'   # Optional social links
-  rss = true
+  # rss = true
 
 [menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-
+  # [[menu.main]]
+  #   name = "Home"
+  #   url = "/"
+  #   weight = 1
+  #
+  # [[menu.main]]
+  #   name = "About"
+  #   url = "/about/"
+  #   weight = 2
+  #
   [[menu.main]]
     name = "Posts"
     url = "/posts/"
