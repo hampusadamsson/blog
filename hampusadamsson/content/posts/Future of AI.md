@@ -11,18 +11,7 @@ llm.solve_my_problmems()
 ```
 
 
-
-
-<hr class="__chatgpt_plugin">
-
-### role::user
-
-write a blog post on this topic 
-
-<hr class="__chatgpt_plugin">
-
-### role::assistant<span style="font-size: small;"> (gpt-4o-mini)</span>
-**Title: The Upcoming Breakthroughs: How Language Models Are Set to Transform Mathematics and Physics**
+#  The Upcoming Breakthroughs: How Language Models Are Set to Transform Mathematics and Physics
 
 **Introduction**
 
