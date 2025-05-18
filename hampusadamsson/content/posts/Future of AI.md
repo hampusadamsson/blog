@@ -13,11 +13,11 @@ llm.solve_my_problmems()
 
 #  The Upcoming Breakthroughs: How Language Models Are Set to Transform Mathematics and Physics
 
-**Introduction**
+## Introduction
 
 In recent years, the advent of large language models (LLMs) like OpenAI's GPT-3 and its successors has sparked an intricate discussion about the capabilities and limitations of artificial intelligence. While language is often seen as an esoteric field, filled with ambiguity, nuance, and context-sensitive interpretations, mathematics stands out as a domain governed by rigorous logic and clarity. Given these foundational differences, one might wonder: can LLMs make significant contributions to mathematics and physics?
 
-**Understanding the Language of Mathematics**
+## Understanding the Language of Mathematics**
 
 Mathematics possesses a universal language, built on symbols and numbers that transcend verbal ambiguity. This precision allows mathematicians to formulate theorems, proofs, and solutions in a way that is easily shareable and testable. However, the challenge arises in problem-solving, theoretical exploration, and the complex formulation of abstract concepts.
 
