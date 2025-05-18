@@ -1,6 +1,7 @@
 ---
 title: Building a social media management platform
-date:
+date: 2024-12-12
+draft: "false"
 ---
 
 ### How I Built a Social Media Management Platform in One Week
