@@ -10,18 +10,8 @@ llm = OpenAPI()
 llm.solve_my_problmems()
 ```
 
-What are we ==actually== solving?
 
-> This is cool though
-Yes, sure, but do you know what you are doing?
+<hr class="__chatgpt_plugin">
 
-%% idk but it works %%
-```bash
-I don't care
-```
+### role::user
 
-Melissa
-
-| This | Is   |
-| ---- | ---- |
-| A    | Test |
