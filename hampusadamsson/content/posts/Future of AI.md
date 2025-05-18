@@ -1,8 +1,7 @@
 ---
 title: Future of AI
 date: 2025-05-17
-draft: "true"
-date modified:
+draft: "false"
 ---
 > Language is esoteric. Math is not. LLM will have breakthroughs in math and physics. 
 
