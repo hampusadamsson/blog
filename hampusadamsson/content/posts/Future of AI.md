@@ -10,7 +10,7 @@ llm = OpenAPI()
 llm.solve_my_problmems()
 ```
 
-# The Upcoming Breakthroughs: How Language Models Are Set to Transform Mathematics and Physics
+# The Upcoming Breakthroughs: How Language Models Are Set to Transform Mathematics
 
 ## Introduction
 
