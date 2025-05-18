@@ -10,8 +10,3 @@ llm = OpenAPI()
 llm.solve_my_problmems()
 ```
 
-
-<hr class="__chatgpt_plugin">
-
-### role::user
-
